@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.928ad606.css",
-    "main.js": "/my-portfolio/static/js/main.2461c06d.js",
-    "static/media/bg1.mp4": "/my-portfolio/static/media/bg1.e86494e44fa1f2dab322.mp4",
-    "static/media/bgIntro.mp4": "/my-portfolio/static/media/bgIntro.7d1ea6a94986d5c2a068.mp4",
-    "static/media/CoverImage.png": "/my-portfolio/static/media/CoverImage.6ab7d84d7bb94f6c8cfe.png",
-    "static/media/projects.png": "/my-portfolio/static/media/projects.39b56662f902d72fa8e0.png",
-    "static/media/Education.jpg": "/my-portfolio/static/media/Education.5fe4a338badab942e55a.jpg",
-    "static/media/achievements.jpg": "/my-portfolio/static/media/achievements.27b4bb32f9ab2a55d0fc.jpg",
-    "static/media/skills.jpg": "/my-portfolio/static/media/skills.3f4fb4c0c511a72983b8.jpg",
-    "static/media/career.png": "/my-portfolio/static/media/career.773d3a9d6997e383ee00.png",
-    "static/media/Certifications.png": "/my-portfolio/static/media/Certifications.4fe0f941bfcedffaba11.png",
-    "index.html": "/my-portfolio/index.html",
-    "main.928ad606.css.map": "/my-portfolio/static/css/main.928ad606.css.map",
-    "main.2461c06d.js.map": "/my-portfolio/static/js/main.2461c06d.js.map"
+    "main.css": "/static/css/main.928ad606.css",
+    "main.js": "/static/js/main.5551e280.js",
+    "static/media/bg1.mp4": "/static/media/bg1.e86494e44fa1f2dab322.mp4",
+    "static/media/bgIntro.mp4": "/static/media/bgIntro.7d1ea6a94986d5c2a068.mp4",
+    "static/media/CoverImage.png": "/static/media/CoverImage.6ab7d84d7bb94f6c8cfe.png",
+    "static/media/projects.png": "/static/media/projects.39b56662f902d72fa8e0.png",
+    "static/media/Education.jpg": "/static/media/Education.5fe4a338badab942e55a.jpg",
+    "static/media/achievements.jpg": "/static/media/achievements.27b4bb32f9ab2a55d0fc.jpg",
+    "static/media/skills.jpg": "/static/media/skills.3f4fb4c0c511a72983b8.jpg",
+    "static/media/career.png": "/static/media/career.773d3a9d6997e383ee00.png",
+    "static/media/Certifications.png": "/static/media/Certifications.4fe0f941bfcedffaba11.png",
+    "index.html": "/index.html",
+    "main.928ad606.css.map": "/static/css/main.928ad606.css.map",
+    "main.5551e280.js.map": "/static/js/main.5551e280.js.map"
   },
   "entrypoints": [
     "static/css/main.928ad606.css",
-    "static/js/main.2461c06d.js"
+    "static/js/main.5551e280.js"
   ]
 }
