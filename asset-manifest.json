@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/My-Portfolio/static/css/main.3eaa669e.css",
-    "main.js": "/My-Portfolio/static/js/main.4c74d69e.js",
+    "main.css": "/My-Portfolio/static/css/main.dfba9029.css",
+    "main.js": "/My-Portfolio/static/js/main.5038480d.js",
     "static/media/bg1.mp4": "/My-Portfolio/static/media/bg1.e86494e44fa1f2dab322.mp4",
     "static/media/bgIntro.mp4": "/My-Portfolio/static/media/bgIntro.7d1ea6a94986d5c2a068.mp4",
     "static/media/hand-tracking.png": "/My-Portfolio/static/media/hand-tracking.122dd18c8e1ab6aa5a97.png",
@@ -15,14 +15,15 @@
     "static/media/chatbotsHealthcare.png": "/My-Portfolio/static/media/chatbotsHealthcare.f1a3dc70463537e697ff.png",
     "static/media/skills.jpg": "/My-Portfolio/static/media/skills.3f4fb4c0c511a72983b8.jpg",
     "static/media/career.png": "/My-Portfolio/static/media/career.773d3a9d6997e383ee00.png",
+    "static/media/lasLogo.png": "/My-Portfolio/static/media/lasLogo.c62c22026fe66cdc68db.png",
     "static/media/dearDiaryProject.jpg": "/My-Portfolio/static/media/dearDiaryProject.615d5f3b9d97b6e97dc4.jpg",
     "static/media/Certifications.png": "/My-Portfolio/static/media/Certifications.4fe0f941bfcedffaba11.png",
     "index.html": "/My-Portfolio/index.html",
-    "main.3eaa669e.css.map": "/My-Portfolio/static/css/main.3eaa669e.css.map",
-    "main.4c74d69e.js.map": "/My-Portfolio/static/js/main.4c74d69e.js.map"
+    "main.dfba9029.css.map": "/My-Portfolio/static/css/main.dfba9029.css.map",
+    "main.5038480d.js.map": "/My-Portfolio/static/js/main.5038480d.js.map"
   },
   "entrypoints": [
-    "static/css/main.3eaa669e.css",
-    "static/js/main.4c74d69e.js"
+    "static/css/main.dfba9029.css",
+    "static/js/main.5038480d.js"
   ]
 }
