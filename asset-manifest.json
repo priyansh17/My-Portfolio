@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.dfba9029.css",
-    "main.js": "/My-Portfolio/static/js/main.bbdd9b55.js",
+    "main.js": "/My-Portfolio/static/js/main.b12851e8.js",
     "static/media/bg1.mp4": "/My-Portfolio/static/media/bg1.e86494e44fa1f2dab322.mp4",
     "static/media/bgIntro.mp4": "/My-Portfolio/static/media/bgIntro.7d1ea6a94986d5c2a068.mp4",
     "static/media/hand-tracking.png": "/My-Portfolio/static/media/hand-tracking.122dd18c8e1ab6aa5a97.png",
@@ -18,12 +18,13 @@
     "static/media/lasLogo.png": "/My-Portfolio/static/media/lasLogo.c62c22026fe66cdc68db.png",
     "static/media/dearDiaryProject.jpg": "/My-Portfolio/static/media/dearDiaryProject.615d5f3b9d97b6e97dc4.jpg",
     "static/media/Certifications.png": "/My-Portfolio/static/media/Certifications.4fe0f941bfcedffaba11.png",
+    "static/media/WIP.jpg": "/My-Portfolio/static/media/WIP.1132722f23fe7622ca96.jpg",
     "index.html": "/My-Portfolio/index.html",
     "main.dfba9029.css.map": "/My-Portfolio/static/css/main.dfba9029.css.map",
-    "main.bbdd9b55.js.map": "/My-Portfolio/static/js/main.bbdd9b55.js.map"
+    "main.b12851e8.js.map": "/My-Portfolio/static/js/main.b12851e8.js.map"
   },
   "entrypoints": [
     "static/css/main.dfba9029.css",
-    "static/js/main.bbdd9b55.js"
+    "static/js/main.b12851e8.js"
   ]
 }
